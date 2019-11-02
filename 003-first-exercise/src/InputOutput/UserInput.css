@@ -1,0 +1,10 @@
+.UserInput {
+    border: 2px solid red;
+    background-color: darkturquoise;
+    
+}
+
+.input {
+    text-align: center;
+    font-size: 2em;
+}
